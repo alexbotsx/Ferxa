@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['595984303784', 'Botcito Sexi', true],
-  ['595984303784', 'Botcito Sexi 1', true],
-  ['595984303784', 'Botcito Sexi 2', true],
-  ['595984303784', 'Botcito Sexi 3', true],
-  ['595984303784', 'Botcito Sexi 4', true],
-  ['595984303784', 'Botcito Sexi 5', true],
-  ['595984303784', 'Botcito Sexi 6', false],
-  ['595984303784', 'Botcito Sexi 7', true],
-  ['595984303784', 'Botcito Sexi 8', true],
-  ['595984303784', 'Botcito Sexi 9', true],
-  ['595984303784', 'Botcito Sexi 19', true], 
-  ['595984303784', 'Botcito Sexi 11', true],
-  ['595984303784', 'Botcito Sexi 12', true], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],  
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'], 
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784'],
-  ['595984303784']
+  ['56971531036', 'Botcito Sexi', true],
+  ['56971531036', 'Botcito Sexi 1', true],
+  ['56971531036', 'Botcito Sexi 2', true],
+  ['56971531036', 'Botcito Sexi 3', true],
+  ['56971531036', 'Botcito Sexi 4', true],
+  ['56971531036', 'Botcito Sexi 5', true],
+  ['56971531036', 'Botcito Sexi 6', false],
+  ['56971531036', 'Botcito Sexi 7', true],
+  ['56971531036', 'Botcito Sexi 8', true],
+  ['56971531036', 'Botcito Sexi 9', true],
+  ['56971531036', 'Botcito Sexi 19', true], 
+  ['56971531036', 'Botcito Sexi 11', true],
+  ['56971531036', 'Botcito Sexi 12', true], 
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'], 
+  ['56971531036'],  
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'], 
+  ['56971531036'], 
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'], 
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036'],
+  ['56971531036']
 ];
 
-global.suittag = ['595984303784'];
-global.prems = ['595984303784'];
+global.suittag = ['56971531036'];
+global.prems = ['56971531036'];
 
 global.packname = 'Sticker';
-global.author = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.wm = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.titulowm = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.titulowm2 = `𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓`
-global.igfg = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
+global.author = '𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭';
+global.wm = '𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭';
+global.titulowm = '𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭';
+global.titulowm2 = `𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭`
+global.igfg = '𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓`;
-global.gt = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
-global.mysticbot = '𝐆𝐇𝐎𝐒𝐓 𝐁𝐎𝐓';
+global.wm2 = `${dia} ${fecha}\n𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭`;
+global.gt = '𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭';
+global.mysticbot = '𝐅𝐞𝐫𝐱𝐚 𝐁𝐨𝐭';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
+global.md = 'https://www.instagram.com/ff_ferxa.rb';
+global.mysticbot = 'https://www.instagram.com/ff_ferxa.rb';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '595984303784';
+global.nomorown = '56971531036';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
